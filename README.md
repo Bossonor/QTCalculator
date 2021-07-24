@@ -1,1 +1,7 @@
-# QTCalculator
+# QtCalculator
+    平台：VS2017+QT5.8
+简单实现了加减乘除，目前的bug有：<br>
+>1、除数未判断是否为0<br>
+>2、没办法处理小数<br>
+
+之后会继续修复bug和添加其他按键功能
